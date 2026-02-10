@@ -8,7 +8,7 @@ from firebase_admin import auth, credentials
 
 # Client config
 firebaseConfig = {
-  'apiKey': "AIzaSyCo0qJMSAGtUHG3vWJmslDYSXOcRLdDEqk",
+  'apiKey': "APIkey",
   'authDomain': "rest-api-auth-note.firebaseapp.com",
   'projectId': "rest-api-auth-note",
   'storageBucket': "rest-api-auth-note.firebasestorage.app",
