@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/64190757/fastapi-security-with-firebase-token
