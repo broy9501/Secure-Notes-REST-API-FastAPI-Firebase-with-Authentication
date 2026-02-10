@@ -22,7 +22,7 @@ firebase = pyrebase.initialize_app(firebaseConfig)
 authenticate = firebase.auth()
 
 # Server config
-cred = credentials.Certificate("rest-api-auth-note-firebase-adminsdk-fbsvc-cc71fb6909.json")
+cred = credentials.Certificate("credentials.json")
 firebase = firebase_admin.initialize_app(cred)
 
 def signup():
